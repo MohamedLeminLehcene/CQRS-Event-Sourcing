@@ -4,7 +4,7 @@
 <ul>
    
 <br>
-<img src="./img/img01.png"/>
+<img src="./IMG/img01.png"/>
 <hr/>
 <li></li>
 <img src="./img/img02.png"/>
